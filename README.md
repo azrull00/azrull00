@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azrull00
-- 👀 I’m aspiring web developer
-- 🌱 I’m currently learning Html,css,java,rugby,javascript,php and some framework
+- 👀 I’m aspiring web developer and Android Developer
+- 🌱 I’m currently learning Html,css,java,rugby,javascript,php and some framework like laravel , fillament, node js , next js etc
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me send emain ata azroulalby69@gmail.com
 
