@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%;" />
+<!-- Animated waving hand -->
 
-# 👋 Hi, I'm Azroul Hasri
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
-💻 Web Developer | Laravel • Next.js • Web3 Enthusiast
+<!-- Cartoon Avatar -->
+
+<img src="https://raw.githubusercontent.com/azrull00/azrull00/main/assets/cartoon-avatar.png" width="160" style="border-radius:50%; box-shadow: 0 0 20px rgba(0,255,255,0.4);" />
+
+# Hi, I'm **Azroul Hasri**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+Developer;Laravel+%7C+Next.js+%7C+Web3;Building+Real-World+Systems" />
+</p>
 
 </div>
 
@@ -12,12 +20,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Web Developer** who loves building real-world systems — from **Admin Dashboards**, **REST APIs**, to **Web3-based payment systems**.
+I'm a passionate **Web Developer** who enjoys turning ideas into **real, usable systems** — from **Admin Dashboards**, **RESTful APIs**, to **Web3-based payment mechanisms**.
 
-* 🔭 Currently working with **Laravel 12 & API Development**
-* 🌱 Learning **Web3, System Security, and Scalable Backend**
-* 🎯 Goal: Build useful products & startups
-* 🤝 Open for collaboration, freelance & internships
+* 🔭 Currently focusing on **Laravel 12 & Secure API Development**
+* 🌱 Exploring **Web3, Backend Security, and Scalable Architectures**
+* 🎯 Long-term goal: Build impactful products & tech startups
+* 🤝 Open for collaboration, freelance opportunities, and internships
 
 ---
 
@@ -25,6 +33,7 @@ I'm a passionate **Web Developer** who loves building real-world systems — fro
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/azrlarts_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/azroulhasri)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@azroull)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:azroulalby69@gmail.com)
 
 ---
@@ -53,32 +62,34 @@ I'm a passionate **Web Developer** who loves building real-world systems — fro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrull00&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azrull00&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azrull00&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azrull00&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azrull00\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azrull00\&theme=tokyo-night\&hide_border=true)
 
 ---
 
 ## 🔥 Featured Projects
 
-* 🚀 **Sistem Reservasi Real-time (Laravel)**
-* 🔐 **REST API Authentication (JWT & Sanctum)**
-* 📰 **News API + Image Upload (Laravel 12)**
-* 🌐 **Web3 Payment Hash System**
+* 🚀 **Sistem Reservasi Real-time** — Laravel-based live booking system
+* 🔐 **REST API Authentication** — JWT & Sanctum implementation
+* 📰 **News API + Image Upload** — Laravel 12 REST API
+* 🌐 **Web3 Payment Hash System** — Blockchain-inspired transaction flow
 
 ---
 
-## ✨ Fun Fact
+## ✨ Personal Motto
 
-> "Build things that solve problems, not just assignments."
+> "Build systems that solve real problems — not just code for assignments."
 
-![Visitor Count](https://komarev.com/ghpvc/?username=azrull00\&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azrull00&style=flat-square&color=38BDF8" />
+</p>
